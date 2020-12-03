@@ -2,7 +2,7 @@
   "name": "w3mcc",
   "version": "1.0.0",
   "description": "Warcraft III Map Client Communication",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
