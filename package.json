@@ -1,6 +1,6 @@
 {
   "name": "w3mcc",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Warcraft III Map Client Communication",
   "main": "src/index.ts",
   "scripts": {
